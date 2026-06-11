@@ -20,3 +20,11 @@ $ git commit
 $ git add .
 $ git commit -m "lo que quieras"
 ```
+
+Subimos al remoto
+
+```console
+$ git push -u origin master
+```
+
+Después seteamos GH Pages.
