@@ -12,3 +12,11 @@ $ git config user.email "santiagotrini@gmail.com"
 $ touch README.md styles.css index.html
 ```
 
+Primeros commits
+
+```console
+$ git add README.md
+$ git commit
+$ git add .
+$ git commit -m "lo que quieras"
+```
